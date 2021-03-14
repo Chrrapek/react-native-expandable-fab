@@ -2,7 +2,7 @@
 
 This is a very small package for React Native containing an expandable and configurable floating action button.
 
-<img src="./expandable-fab.gif" width="80">
+<img src="./expandable-fab.gif" width="200">
 
 ## Installation
 
@@ -31,6 +31,9 @@ This package provides a single component which can be configured to your liking.
 
 
 ### Example
+
+This example uses [UI-Kitten](https://github.com/akveo/react-native-ui-kitten) components, but you can pretty much use any other components.
+
 ```jsx
 import ExpandableFloatingAction from 'react-native-expandable-fab';
 
